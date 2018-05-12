@@ -1,4 +1,5 @@
 _repo: The-Sunbonnet-Babies-in-Italy_47177
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: McCracken, James
@@ -7,6 +8,9 @@ contributor:
   - agent_name: Melcher, Bertha Corbett
     gutenberg_agent_id: '43127'
     url: http://www.gutenberg.org/2009/agents/43127
+covers:
+- cover_type: archival
+  image_path: 47177-h/images/cover2.jpg
 creator:
   author:
     agent_name: Grover, Eulalie Osgood
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26626
 description: The Sunbonnet babies travel through Italy, visiting Rome, Venice and
   Pompei.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47177#The-Sunbonnet-Babies-in-Italy
 gutenberg_issued: '2014-10-23'
 gutenberg_type: Text
 identifiers:
